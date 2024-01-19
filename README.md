@@ -17,7 +17,7 @@
 
 ### 🌐 Conecta Conmigo:
 
-- 🌍 [Linked]: [https://www.linkedin.com/in/cristian-usuga/]
+- 🌍 [linkedin]: [https://www.linkedin.com/in/cristian-usuga/]
 - 📧 [Correo Electrónico]: [cristiandres171@gmail.com]
 
 ### 🤝 ¡Colaboraciones y Contribuciones!
