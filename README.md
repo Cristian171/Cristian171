@@ -8,7 +8,6 @@
 - 🖥️ Programación en lenguajes como C y C#.
 - 📱 Diseño y desarrollo de aplicaciones móviles y de escritorio.
 - 🛠️ Manejo de bases de datos MySQL para almacenamiento eficiente de datos.
-- 
 ### 🌐 Conecta Conmigo:
 
 - 🌍 [linkedin]: [https://www.linkedin.com/in/cristian-usuga/]
