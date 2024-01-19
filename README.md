@@ -8,26 +8,11 @@
 - 🖥️ Programación en lenguajes como C y C#.
 - 📱 Diseño y desarrollo de aplicaciones móviles y de escritorio.
 - 🛠️ Manejo de bases de datos MySQL para almacenamiento eficiente de datos.
-
-### 🌟 Proyectos Destacados:
-
-- 🎮 [Nombre del Proyecto de Videojuego]: [Breve descripción y enlace al repositorio]
-- 📱 [Nombre del Proyecto de Aplicación Móvil]: [Breve descripción y enlace al repositorio]
-- 💻 [Nombre del Proyecto de Aplicación de Escritorio]: [Breve descripción y enlace al repositorio]
-
+- 
 ### 🌐 Conecta Conmigo:
 
 - 🌍 [linkedin]: [https://www.linkedin.com/in/cristian-usuga/]
 - 📧 [Correo Electrónico]: [cristiandres171@gmail.com]
-
-### 🤝 ¡Colaboraciones y Contribuciones!
-
-- 👥 He contribuido a proyectos de código abierto, ¡échales un vistazo en mi perfil!
-- 🌟 Siempre estoy abierto a nuevas oportunidades de colaboración y aprendizaje.
-
-### 📈 Estadísticas de GitHub:
-
-![Estadísticas de GitHub](URL_de_la_imagen)
 
 ¡No dudes en explorar mis repositorios y seguirme para estar al tanto de mis últimos proyectos! ¡Hablemos de desarrollo y diseño digital! 🚀
 
