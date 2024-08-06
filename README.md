@@ -10,7 +10,7 @@
 - 🛠️ Manejo de bases de datos MySQL para almacenamiento eficiente de datos.
 ### 🌐 Conecta Conmigo:
 
-- 🌍 [linkedin]: [https://www.linkedin.com/in/cristian-usuga/]
+- 🌍 [linkedin:](https://www.linkedin.com/in/cristian-usuga/)
 - 📧 [Correo Electrónico]: [cristiandres171@gmail.com]
 
 ¡No dudes en explorar mis repositorios y seguirme para estar al tanto de mis últimos proyectos! ¡Hablemos de desarrollo y diseño digital! 🚀
