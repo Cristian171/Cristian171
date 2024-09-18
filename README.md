@@ -11,9 +11,7 @@
 ### 🌐 Conecta Conmigo:
 
 - 🌍 [linkedin:](https://www.linkedin.com/in/cristian-usuga/)
-- 📧 [Correo Electrónico]: [cristiandres171@gmail.com]
-
-¡No dudes en explorar mis repositorios y seguirme para estar al tanto de mis últimos proyectos! ¡Hablemos de desarrollo y diseño digital! 🚀
+- 📧 [Correo Electrónico:](cristiandres171@gmail.com)
 
 <!--
 **Cristian171/Cristian171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
