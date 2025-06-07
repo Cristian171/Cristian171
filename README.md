@@ -1,5 +1,3 @@
-### 👋 ¡Hola, soy Cristian Usuga!
-
 ### 🚀 Mis Intereses y Habilidades:
 
 - 💻 Desarrollo de videojuegos utilizando C# y Lua.
